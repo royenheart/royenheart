@@ -15,8 +15,6 @@
 
 ![RoyenHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=royenheart&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royenheart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Visitors
 
 ![](https://count.getloli.com/get/@RoyenHeart?theme=rule34)
